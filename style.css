@@ -341,19 +341,19 @@ border-radius: 5px;
         
     }
     .influ-title{
-      margin-right: 50px;
+      margin-left: 80px;
         text-align: center;
     }
     .influencer p{
         font-size: 10px;
-        margin-left: 90px;
-        margin-right: 160px;
+        margin-left: 150px;
+        
         justify-content: center;
         
     }
     
     .preebook{
-        margin-left: 180px;
+        margin-left: 280px;
     }
     .first-part h1{
    
@@ -366,7 +366,7 @@ border-radius: 5px;
         width: 240px;
         height: 214px;
         
-        margin-right: 480px;
+        margin-right: 280px;
         margin-top: 30px;
         
         
@@ -475,7 +475,7 @@ border-radius: 5px;
     
         background-color: black;
         
-        width: 70%;
+        width: 100%;
         
     }
     
