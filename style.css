@@ -112,8 +112,101 @@ main{
 }
 .line2{
     border: 1px linear-gradient(#C0CCDA1A,#C0CCDA99,#C0CCDA1A);
+    margin-bottom: 100px;
     
     
    
 }
 
+.section-title{
+    
+    font-size: 24px;
+    margin-top: 3px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    
+    
+
+
+}
+.fa-star{
+
+    color: #FB8200;
+   
+}
+.fa-star-half-alt{
+    color: #FB8200;
+}
+
+
+.collect{
+    background-color: #FFFFFF;
+    width: 1047px;
+    
+    margin-left: 196px;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+
+.collections{
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 30px ;
+    align-items: center;
+    justify-content: center;
+
+}
+.collection-banner img{
+    width: 300px;
+    height: 256px;
+    
+}.title-more{
+    display: flex;
+    
+    justify-content: right;
+
+
+}
+.ctitle{
+    text-decoration: none;
+    color: #E02C6DDE;
+    
+    
+    
+    
+
+    
+
+}
+.fa-arrow-right{
+    padding-left: 5px;
+}
+
+
+
+
+footer{
+   
+    
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    
+}
+.footer-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    
+    
+    
+}
+.footer-title p{
+    font-size: 16px;
+    
+}
